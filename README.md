@@ -11,7 +11,7 @@ Tenho experiência prática com desenvolvimento backend e conhecimentos em front
 ## 🚀 Sobre mim
 
 * 🎓 Estudante de **Engenharia de Software**
-* 💻 Foco em **C# / .NET**
+* 💻 Stack principal: **C# / .NET**
 * 🔧 Experiência prática com desenvolvimento de **APIs e aplicações web**
 * 🗄️ Experiência com **SQL Server e bancos relacionais**
 * 🏗️ Estudos e projetos utilizando **Clean Architecture, DDD, SOLID e Clean Code**
