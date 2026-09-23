@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Dhionys Soares!
-
 ### 💻 Desenvolvedor de Software
 
 Estudante de Engenharia de Software e desenvolvedor, interessado em construir aplicações, APIs e soluções com código organizado, boas práticas e arquitetura bem estruturada.
@@ -95,6 +93,18 @@ Tecnologias: `C#` `ASP.NET Core` `Blazor WebAssembly` `EF Core` `SQL Server` `Do
 Conceitos: `Clean Architecture` `DDD` `CQRS/CQS` `SOLID`
 
 🔗 [Ver projeto](https://github.com/dhionys-soares/GoodHamburger)
+
+---
+
+### ⚛️ Lume
+
+Projeto desenvolvido como uma primeira iniciativa prática de aprendizado em **React**, explorando a construção de componentes, organização da aplicação e conceitos fundamentais da biblioteca.
+
+O projeto faz parte do meu processo de desenvolvimento em frontend e representa a ampliação dos meus conhecimentos para além do ecossistema .NET.
+
+Tecnologias: `React` `JavaScript` `HTML` `CSS`
+
+🔗 [Ver projeto](https://github.com/dhionys-soares/Lume)
 
 ---
 
