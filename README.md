@@ -1,27 +1,28 @@
 # 👋 Olá, eu sou Dhionys Soares!
 
-### 💻 Desenvolvedor C#/.NET
+### 💻 Desenvolvedor de Software
 
-Estudante de **Engenharia de Software** e desenvolvedor com foco no ecossistema **C#/.NET**, interessado em construir aplicações, APIs e soluções com código organizado, boas práticas e arquitetura bem estruturada.
+Estudante de Engenharia de Software e desenvolvedor, interessado em construir aplicações, APIs e soluções com código organizado, boas práticas e arquitetura bem estruturada.
 
-Tenho experiência prática com desenvolvimento backend e conhecimentos em frontend, bancos de dados, APIs, testes, Docker e Azure.
+Tenho experiência prática principalmente com C#/.NET e desenvolvimento backend, além de conhecimentos em frontend, bancos de dados, APIs, testes, Docker e Azure. Atualmente, também estou estudando e me desenvolvendo em Python e React.
 
 ---
 
 ## 🚀 Sobre mim
 
-* 🎓 Estudante de **Engenharia de Software**
-* 💻 Stack principal: **C# / .NET**
-* 🔧 Experiência prática com desenvolvimento de **APIs e aplicações web**
-* 🗄️ Experiência com **SQL Server e bancos relacionais**
-* 🏗️ Estudos e projetos utilizando **Clean Architecture, DDD, SOLID e Clean Code**
-* 🧪 Conhecimentos em **testes unitários**
-* 🐳 Experiência com **Docker**
-* ☁️ Conhecimentos em **Azure**
-* 🌐 Conhecimentos em **HTML, CSS, Bootstrap e Blazor**
-* 🐍 Estudos e projetos utilizando **Python**
-* 📊 Automação e consolidação de dados com **Python, Pandas e Excel**
-* 📚 Atualmente estudando **Angular**
+* 🎓 Estudante de Engenharia de Software
+* 💻 Experiência prática principalmente com C# / .NET
+* 🔧 Desenvolvimento de APIs e aplicações web
+* 🗄️ Experiência com SQL Server e bancos relacionais
+* 🏗️ Estudos e projetos utilizando Clean Architecture, DDD, SOLID e Clean Code
+* 🧪 Conhecimentos em testes unitários
+* 🐳 Experiência com Docker
+* ☁️ Conhecimentos em Azure
+* 🌐 Conhecimentos em HTML, CSS, Bootstrap e Blazor
+* 🐍 Estudando e desenvolvendo projetos com Python
+* ⚛️ Estudando e desenvolvendo projetos com React
+* 📊 Automação e consolidação de dados com Python, Pandas e Excel
+* 📚 Atualmente estudando Angular
 
 ---
 
@@ -56,7 +57,16 @@ Tenho experiência prática com desenvolvimento backend e conhecimentos em front
 * Bootstrap
 * Blazor
 * JavaScript — conhecimentos
+* React — em estudo
 * Angular — em estudo
+
+### Python
+
+* Python — em desenvolvimento
+* Pandas
+* OpenPyXL
+* Automação de processos
+* Análise e consolidação de dados
 
 ### DevOps e ferramentas
 
@@ -72,14 +82,6 @@ Tenho experiência prática com desenvolvimento backend e conhecimentos em front
 * xUnit
 * Testes unitários
 
-### Python
-
-* Python
-* Pandas
-* OpenPyXL
-* Automação de processos
-* Análise e consolidação de dados
-
 ---
 
 ## 📌 Projetos em destaque
@@ -88,11 +90,9 @@ Tenho experiência prática com desenvolvimento backend e conhecimentos em front
 
 Sistema para gerenciamento de uma hamburgueria, desenvolvido com foco em boas práticas de arquitetura e organização de código.
 
-**Tecnologias:**
-`C#` `ASP.NET Core` `Blazor WebAssembly` `EF Core` `SQL Server` `Docker` `xUnit`
+Tecnologias: `C#` `ASP.NET Core` `Blazor WebAssembly` `EF Core` `SQL Server` `Docker` `xUnit`
 
-**Conceitos:**
-`Clean Architecture` `DDD` `CQRS/CQS` `SOLID`
+Conceitos: `Clean Architecture` `DDD` `CQRS/CQS` `SOLID`
 
 🔗 [Ver projeto](https://github.com/dhionys-soares/GoodHamburger)
 
@@ -102,12 +102,21 @@ Sistema para gerenciamento de uma hamburgueria, desenvolvido com foco em boas pr
 
 Aplicação em Python desenvolvida para automatizar a consolidação de múltiplas planilhas Excel em um único relatório.
 
-**Tecnologias:**
-`Python` `Pandas` `OpenPyXL`
+Tecnologias: `Python` `Pandas` `OpenPyXL`
 
-O projeto realiza leitura dos arquivos, identificação de informações a partir dos nomes das planilhas, consolidação dos dados, geração automática do relatório e registro de erros.
+O projeto realiza leitura dos arquivos, consolidação dos dados, geração automática do relatório e registro de erros.
 
 🔗 [Ver projeto](https://github.com/dhionys-soares/Consolida-o_Dados_Excel)
+
+---
+
+### 📈 Previsão de Ações
+
+Projeto desenvolvido em Python para análise gráfica de ações da bolsa de valores, utilizando dados históricos e indicadores técnicos.
+
+Tecnologias: `Python` `Pandas` `yFinance` `Plotly` `Streamlit`
+
+🔗 [Ver projeto](https://github.com/dhionys-soares/Previsao_acoes)
 
 ---
 
@@ -115,22 +124,19 @@ O projeto realiza leitura dos arquivos, identificação de informações a parti
 
 Projeto desenvolvido como desafio prático utilizando a API do IBGE, com autenticação, banco de dados e operações protegidas.
 
-**Tecnologias:**
-`C#` `.NET` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Identity` `Bootstrap` `Azure`
-
-🔗 [Ver projeto](https://github.com/dhionys-soares/Portifolio)
+Tecnologias: `C#` `.NET` `ASP.NET Core` `Entity Framework Core` `SQL Server` `Identity` `Bootstrap` `Azure`
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade como **Desenvolvedor C#/.NET**, especialmente em posições de **estágio ou Desenvolvedor .NET Júnior**, onde possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmente.
+Busco uma oportunidade na área de desenvolvimento de software, especialmente em posições de estágio ou nível júnior, onde possa aplicar meus conhecimentos, contribuir com projetos reais e continuar evoluindo profissionalmente.
 
 ---
 
 ## 📫 Contato
 
-💼 [LinkedIn](https://www.linkedin.com/in/dhionys-soares/)
+💼 [LinkedIn](https://www.linkedin.com/in/dhionys-soares)
 
 ---
 
